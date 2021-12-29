@@ -1,0 +1,39 @@
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.head-pro {
+  color: #f8f9fa;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  font-size: 300px;
+}
+
+.btn-cust:focus {
+  outline: none;
+  border: none;
+}
+
+.input-news {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.cntct {
+  display: dles;
+}
+/*# sourceMappingURL=styles.css.map */

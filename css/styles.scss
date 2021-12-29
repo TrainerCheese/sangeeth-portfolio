@@ -1,0 +1,37 @@
+// Variables
+$dark: #343a40;
+$light: #f8f9fa;
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+* {
+  scroll-behavior: smooth;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.head-pro {
+  color: $light;
+  text-decoration: none;
+  font-weight: 700;
+}
+.navbar-brand {
+  font-size: 300px;
+}
+.btn-cust {
+  &:focus {
+    outline: none;
+    border: none;
+  }
+}
+.input-news {
+  display: flex;
+}
+.cntct {
+  display: dles;
+}
